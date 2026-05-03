@@ -1,0 +1,1 @@
+This program helps users decide on a type of cookie to based on a series of questions. It is written in Java. It has the option to allow users to 'save their progress', where they can save how many cookie options they chose to a file.
